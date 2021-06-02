@@ -28,7 +28,7 @@ NO LIVE DEMO
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome! 
 
 ## Show your support
 
